@@ -1,0 +1,106 @@
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(138, 30, 0);
+    
+}
+h3,h4{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(2, 2, 158);
+}
+h2{
+     font-family:Arial, Helvetica, sans-serif;
+    color: rgb(51, 74, 1);
+    margin-left: 30%;
+  
+}
+.flag{
+    height: 150px;
+    position:fixed;
+    left: 40px;
+
+}
+#flag{
+    margin-left:800px;
+    position:relative;
+    margin-bottom: 0px;
+    
+}
+#calan{
+   position:absolute;
+}
+.tariikh{
+    font-size: medium;
+    color: rgb(10, 10, 238);
+   
+}
+.body{
+    background-color: #D2C4B4
+}
+.sawiro{
+    margin-left: 200px;
+    
+
+}
+
+.row {
+  display:flex
+}
+
+.column {
+  flex: 40%;
+  padding:5%;
+}
+.alligment{
+    height: 200px;
+    width: 200px;
+    align-self: center;
+}
+#maxamed{
+     display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.button{
+   background-color: #ffffff;
+  
+}
+
+#salad{
+    height: 300px;
+    width: 350px;
+}
+
+.pic{
+float: left;
+width: 280px;
+margin-right: 20px;
+}
+.abdalle{
+    float: left;
+    margin-right: 20px;
+}
+#shariif{
+    height: 300px;
+}
+.gaar{
+    color: rgb(129, 14, 8);
+    font-weight: bold;
+}
+.gaarkale{
+    color: rgb(10, 10, 100);
+    font-weight: bold;
+}
+.farmaajo{
+    float: left;
+
+}
+.maxamed{
+    float: right;
+}
+.xasan{
+    float: right;
+    height: 250px;
+    margin-left: 20px;
+}
